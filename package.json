@@ -21,7 +21,7 @@
     "@babel/preset-env": "7.14.1",
     "@babel/preset-react": "7.13.13",
     "@svgr/webpack": "5.5.0",
-    "babel-loader": "8.2.2",
+    "babel-loader": "9.2.1",
     "copy-webpack-plugin": "8.1.1",
     "file-loader": "6.2.0",
     "html-webpack-plugin": "5.3.1",
